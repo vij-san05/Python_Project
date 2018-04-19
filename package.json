@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/vij-san05/Python_Project/issues"
   },
-  "homepage": "https://github.com/vij-san05/Python_Project#readme"
+  "homepage": "https://github.com/vij-san05/Python_Project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0"
+  }
 }
